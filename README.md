@@ -70,7 +70,7 @@ This project is licensed under the MIT License.
 
 ## 🤝 Contributing
 
-Contributions to this project are welcome! Here's how you can contribute:
+Contributions to this project are welcome!
 
 ## 🙏 Acknowledgments
 
