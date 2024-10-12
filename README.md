@@ -3,6 +3,7 @@
 ![LLMRocket](https://github.com/LMLK-seal/LLMRocket/blob/main/Img.png?raw=true)
 
 This repository contains a Gradio-based interface for interacting with various large language models, including vision-language models. The application allows users to select different models, process images and text inputs, and generate responses based on the chosen model.
+Temporary public link can be generated that you can use to access the interface from any device (Valid for 72 huors) - See description for more info.
 
 Important Note: LLMRocket is designed to be 100% offline and private once set up. However, it requires an initial download of the model. After this initial download, the application operates entirely on your local machine, ensuring your prompts remain private and secure.
 
